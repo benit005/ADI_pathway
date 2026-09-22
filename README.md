@@ -1,13 +1,13 @@
 # ADI_pathway
 This repository contains the Scripts, Data required and Results obtained for the following publication: "Evolution-assisted replacement of endogenous E. coli ATP metabolism by the arginine deiminase pathway"
 
-# Software requirements
+## Software requirements
 
 Scripts/pixi.toml describes all the dependencies and packages required to run the code. 
 To install on your own computer, use pixi package manager (https://pixi.prefix.dev/latest/).
 
 
-# Running locally
+##Running locally
 
 You may run the code on your local machine by cloning this repository:
 
