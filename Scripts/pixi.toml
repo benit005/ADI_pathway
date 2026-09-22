@@ -1,0 +1,22 @@
+[workspace]
+channels = ["conda-forge"]
+name = "Scripts"
+platforms = ["linux-64", "osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+cobra = ">=0.32.1,<0.33"
+scipy = ">=1.18.0,<2"
+numpy = ">=2.5.2,<3"
+pandas = ">=2.3.3,<3"
+matplotlib = ">=3.11.1,<4"
+openpyxl = ">=3.1.5,<4"
+seaborn = ">=0.13.2,<0.14"
+
+[target.linux-64.dependencies]
+python = ">=3.14.7,<3.15"
+
+[target.osx-arm64.dependencies]
+python = ">=3.14.7,<3.15"
