@@ -7,7 +7,7 @@ Scripts/pixi.toml describes all the dependencies and packages required to run th
 To install on your own computer, use pixi package manager (https://pixi.prefix.dev/latest/).
 
 
-##Running locally
+## Running locally
 
 You may run the code on your local machine by cloning this repository:
 
