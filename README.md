@@ -2,3 +2,9 @@
 This repository contains the Scripts, Data required and Results obtained for the following publication: "Evolution-assisted replacement of endogenous E. coli ATP metabolism by the arginine deiminase pathway"
 
 Scripts/pixi.toml describes all the dependencies and packages required to run the code. 
+
+Running locally
+
+To may run the code on your local machine by cloning this repository:
+
+ git clone 
